@@ -58,3 +58,12 @@ https://github.com/EsotericSoftware/spine-runtimes/blob/3.5.51/spine-csharp/src/
 明明 3.5, 3.6, 3.7 都有 Path 功能，但是就在 3.4 版打開的時候，Path 會有問題。
 
 別用了吧。
+
+<br>
+
+# 另外說明
+以上都是自己測試的結果，所以可能會有錯誤的地方。
+
+但我自己是成功的將 3.7 spine 的資源，成功降回 3.4 版本，並且可以使用。
+
+歡迎討論。
